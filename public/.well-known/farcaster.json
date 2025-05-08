@@ -3,7 +3,7 @@
     "name": "Mint Your NFT",
     "description": "Mint directly from this Mini App on Monad testnet.",
     "image": "https://i.postimg.cc/nLGxKNHC/ty3rr6t.jpg",
-    "url": "https://vercel.com/vrs-projects-6529d2a0/p3-tcqx",
+    "url": "https://p3-yj9u.vercel.app",
     "actions": [
       {
         "type": "link",
