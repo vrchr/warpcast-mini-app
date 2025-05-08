@@ -1,0 +1,15 @@
+{
+  "frame": {
+    "name": "Mint Your NFT",
+    "description": "Mint directly from this Mini App on Monad testnet.",
+    "image": "https://i.postimg.cc/nLGxKNHC/ty3rr6t.jpg",
+    "url": "https://vercel.com/vrs-projects-6529d2a0/p3-tcqx",
+    "actions": [
+      {
+        "type": "link",
+        "label": "Mint NFT",
+        "target": "https://magiceden.io/mint-terminal/monad-testnet/0xb0f24fafa90314eb8ba3cba71feb45cd8c18c191"
+      }
+    ]
+  }
+}
